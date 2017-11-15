@@ -109,7 +109,6 @@ body{
     flex-direction: column;
     flex: 2;
     align-items: flex-start;
-    /*border: 5px darkgreen solid;*/ /*Added as visual guide*/
 }
 
 
@@ -154,7 +153,6 @@ body{
     flex-direction: column;
     flex: 2;
     align-items: flex-start;
-    border: 5px darkgreen solid;  /*Added as visual guide*/
 }
 
 .history-right-panel h2{
